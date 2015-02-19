@@ -1,6 +1,10 @@
 /****************************************************************
 
-Meshblu 
+Octoblu REST Interface to send messages to Meshblu
+
+by Moheeb Zara @ Octoblu
+
+Feb/2015
 
 
 
