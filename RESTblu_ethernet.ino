@@ -1,3 +1,13 @@
+/*
+
+Octoblu REST interface to Send messages to Meshblu
+
+by Moheeb Zara @ Octoblu
+Feb/2015
+
+*/
+
+
 #include <SPI.h>
 #include <Ethernet.h>
 
